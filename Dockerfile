@@ -1,4 +1,4 @@
-FROM jenkins:2.19.3-alpine
+FROM jenkins:2.19.3
 
 MAINTAINER Gyula Voros <gyulavoros87@gmail.com>
 
